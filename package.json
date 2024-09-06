@@ -1,0 +1,15 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "A demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Talha",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
